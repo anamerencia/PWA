@@ -1,0 +1,20 @@
+{
+  "name": "Bem-vindo a Unioeste CECE",
+  "short_name": "Bem-vindo a Unioeste CECE",
+  "star_url": ".",
+  "background_color": "#6dcdb1",
+  "theme_color": "#009578",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "images/LOGO_PTI_0.png",
+      "sizes": "192x192",
+      "type": "images/png"
+    },
+    {
+      "src": "images/Logo_unioeste.png",
+      "sizes": "512x512",
+      "type": "images/png"
+    }
+  ]
+}
